@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\ArhSoft_App\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\ArhSoft_App\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\ArhSoft_App\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\ArhSoft_App\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\Pavilion\\.nuget\\packages\\",
-        "outputPath": "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\RazorPagesMovie\\obj\\",
+        "outputPath": "E:\\2-0_ACE_UCV\\Sem2_ArhitecturiSoftware\\ArhSoft_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
